@@ -1,0 +1,10 @@
+(librepcb_library db24137f-3b2d-48bf-92a1-6da6dcbe5c08
+ (name "Mechanical Keyboards")
+ (description "Components to create and design PCBs for mechanical keyboards")
+ (keywords "")
+ (author "Fabio Bertagna")
+ (version "0.1")
+ (created 2020-10-27T12:07:36Z)
+ (deprecated false)
+ (url "https://github.com/DonGiovanni83/Machanical_Keyboards.lplib.git")
+)
